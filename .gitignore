@@ -1,3 +1,11 @@
-myenv/
+env/
+venv/
+newEnv/
 __pycache__/
 *.pyc
+<<<<<<< HEAD
+
+.env
+certs
+=======
+>>>>>>> c428266 (Removed venv from repo)
